@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  margin: 7% 13%;
+}
+.buttonPlay{
+    background-color: aqua;
+    border:none;
+    border-radius: 5%;
+    padding: 10px 16px;
+}
